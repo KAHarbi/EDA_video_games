@@ -14,17 +14,6 @@ Data Description:
 •	=== What dataset(s) do you plan to use, and how will you obtain the data?
 •	What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
 
-
-
-
-
-
-
-
-
-
-
-
 Field Description:
 
 
@@ -63,9 +52,6 @@ User_Score
 User_Count	Number of users who gave the user_score
 
 Developer	Party responsible for creating the game
-
-
-
 
 
 
