@@ -20,13 +20,13 @@ It would be interesting to see any machine learning techniques or continued data
 
 Field Name                           Description
  
- ** Name                                Name of the game
+ * Name                               =Name of the game
 
- * Platform	                     Console on which the game is running
+ * Platform	                    = Console on which the game is running
 
- * Year_of_Release                      Year of the game released
+ * Year_of_Release                      ==Year of the game released
 
- * Genre                                Game's category
+ * Genre                                == Game's category
 
  * Publisher                            Publisher
 
