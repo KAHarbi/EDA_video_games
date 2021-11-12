@@ -19,6 +19,8 @@ The data set is provided in .csv format
 
 The data set was extracted from Kaggle (https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings/version/2)
 
+#Number of rows = 16720 rows 
+#Number of columns = 16 columns 
 
 ## Field Description:
 
@@ -58,13 +60,23 @@ Field Name                           Description
  * Rating                               ==> The ESRB ratings (E.g. Everyone, Teen, Adults Only..etc)
 
 
+## Libraries:
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 
 ## Tools:
 
-•	Numpy and Pandas for data manipulation
+* python
+* jupyter notebook
+* SQLite
+*  PowerPoint
+*  Excel
 
-•	Matplotlib and Seaborn for plotting
+## MVP Goal:
+* The MVP goal is to answer of the questions we mentioned
 
-•	Tableau for interactive visualizations
 
-•	jupyter notebook
+
