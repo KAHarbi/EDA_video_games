@@ -16,7 +16,7 @@ It would be interesting to see any machine learning techniques or continued data
 * What game do you use as an ad campaign?
 
 ## Data Description:
-The data set is provided in .csv format contains information of Motivated by Gregory Smith's web scrape of VGChartz .[Video Games Sales](https://www.kaggle.com/gregorut/datasets), this data set simply extends the number of variables with another web scrape from [Metacritic](https://www.metacritic.com/browse/games/release-date/available). Unfortunately, there are missing observations as Metacritic only covers a subset of the platforms.
+The data set is provided in .csv format contains information of Motivated by Gregory Smith's web scrape of VGChartz [Video Games Sales](https://www.kaggle.com/gregorut/datasets), this data set simply extends the number of variables with another web scrape from [Metacritic](https://www.metacritic.com/browse/games/release-date/available). Unfortunately, there are missing observations as Metacritic only covers a subset of the platforms.
 
 The data set was extracted from [Kaggle](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings/version/2)
 
