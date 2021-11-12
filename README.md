@@ -17,7 +17,7 @@ It would be interesting to see any machine learning techniques or continued data
 
 The data set is provided in .csv format
 
-The data set was extracted from Kaggle hare.(https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings/version/2)
+The data set was extracted from Kaggle (https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings/version/2)
 
 
 ## Field Description:
