@@ -6,6 +6,14 @@ We want to organize an online tournament for video game fans.
 Our first question:
 * What is the Genre wise Game Sales?
 - Through this answer, we will determine the genre of online tournament
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 
 
 
