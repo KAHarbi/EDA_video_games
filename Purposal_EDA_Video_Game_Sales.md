@@ -14,36 +14,33 @@ It would be interesting to see any machine learning techniques or continued data
 * What kinds of games are the highest rated?
 * What is the game that attracts the largest audience?
 * What game do you use as an ad campaign?
+* What is the Genre-wise Game Sales?
 
 ## Data Description:
 The data set is provided in .csv format contains information of Motivated by Gregory Smith's web scrape of VGChartz [Video Games Sales](https://www.kaggle.com/gregorut/datasets), this data set simply extends the number of variables with another web scrape from [Metacritic](https://www.metacritic.com/browse/games/release-date/available). Unfortunately, there are missing observations as Metacritic only covers a subset of the platforms.
 
 The data set was extracted from [Kaggle](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings/version/2)
 
- Number of rows = 16720 rows 
+ Number of rows = 16598 rows 
 
- Number of columns = 16 columns 
+ Number of columns = 11 columns 
 
 ## Field Description:
 
 | Field Name        | Description                                                                                                |
 |-------------------|------------------------------------------------------------------------------------------------------------|
+| Rank              |                                                                                                            |
 | Name              | Name of the game                                                                                           |
 | Platform          | Console on which the game is running                                                                       |
-| Year_of_Release   | Year of the game released                                                                                  |
+| Year              | Year of the game released                                                                                  |
 | Genre             | Game's category                                                                                            |
 | Publisher         | Publisher                                                                                                  |
 | NA_Sales	         | Game sales in North America (in millions of units)                                                         |
 | EU_Sales	         | Game sales in the European Union (in millions of units)                                                    |
 | JP_Sales	         | Game sales in Japan (in millions of units)                                                                 |
 | Other_Sales       | Game sales in the rest of the world, i.e. Africa, Asia excluding Japan, Australia, Europe excluding the E.U|
-|Global_Sales       | Total sales in the world (in millions of units)                                                            |
-| Critic_Score      | Aggregate score compiled by Metacritic staff                                                               |
-| Critic_Count      | The number of critics used in coming up with the Critic_score                                              |
-| User_Score        | Score by Metacritic's subscribers                                                                          |
-| User_Count	       | Number of users who gave the user_score                                                                    |
-| Developer	        | Party responsible for creating the game                                                                    |
-|Rating             | The ESRB ratings (E.g. Everyone, Teen, Adults Only..etc)                                                   |
+| Global_Sales      | Total sales in the world (in millions of units)                                                            |
+
 
 
 ## Libraries:
@@ -57,7 +54,6 @@ The data set was extracted from [Kaggle](https://www.kaggle.com/rush4ratio/video
 
 * python
 * jupyter notebook
-* SQLite
 *  PowerPoint
 *  Excel
 
