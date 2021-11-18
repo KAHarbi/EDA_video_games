@@ -47,14 +47,21 @@ The data set was extracted from [Kaggle](https://www.kaggle.com/rush4ratio/video
 
 * Pandas
 * NumPy
+* missingno  
 * Matplotlib
 * Seaborn
+* Counter
+* matplotlib
+* matplotlib.pyplot
+* matplotlib.style
+* matplotlib.colors
+* warnings
 
 ## Tools:
 
 * python
 * jupyter notebook
-*  PowerPoint
+* PowerPoint
 *  Excel
 
 ## MVP Goal:
