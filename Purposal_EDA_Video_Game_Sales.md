@@ -29,7 +29,7 @@ The data set was extracted from [Kaggle](https://www.kaggle.com/rush4ratio/video
 
 | Field Name        | Description                                                                                                |
 |-------------------|------------------------------------------------------------------------------------------------------------|
-| Rank              |                                                                                                            |
+| Rank              |Ranking of overall sales                                                                                    |
 | Name              | Name of the game                                                                                           |
 | Platform          | Console on which the game is running                                                                       |
 | Year              | Year of the game released                                                                                  |
